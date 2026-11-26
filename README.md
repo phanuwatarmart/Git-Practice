@@ -8,3 +8,6 @@ My first Git repository.
 - Branch
 - Commit
 - Push
+## Practice Git Pull
+
+Learning how to pull changes from GitHub.
